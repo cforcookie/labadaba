@@ -7,6 +7,7 @@
 ```
 pip install PyQt5 web3
 ```
-### Сам процесс запуска:
-*
-
+### Сам процесс запуска (Windows):
+1. Запустить *start.bat*
+2. Подключить *labadaba.sol* в Remix IDE (задеплоить контракт и подключить в сети geth - *External Http Provider*)
+3. Запустить *interface.py*
